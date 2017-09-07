@@ -7,4 +7,4 @@ Verifies the following functionality:
   - login/logout
   - loading previously saved forks
   - creating new forks
-  - forks deleting
+  - deleting forks

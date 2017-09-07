@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19203" started-at="2017-09-07T17:05:22Z" finished-at="2017-09-07T17:05:41Z">
+    <groups>
+      <group name="login">
+        <method signature="FiddlesTest.logInTest()[pri:1, instance:com.alexandrovskiy.DemoFiddle.tests.FiddlesTest@14b1c02]" name="logInTest" class="com.alexandrovskiy.DemoFiddle.tests.FiddlesTest"/>
+      </group> <!-- login -->
+    </groups>
+    <test name="Default test" duration-ms="19203" started-at="2017-09-07T17:05:22Z" finished-at="2017-09-07T17:05:41Z">
+      <class name="com.alexandrovskiy.DemoFiddle.tests.FiddlesTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.alexandrovskiy.DemoFiddle.tests.FiddlesTest@14b1c02]" name="setUp" is-config="true" duration-ms="6864" started-at="2017-09-07T20:05:22Z" finished-at="2017-09-07T20:05:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="logInTest()[pri:1, instance:com.alexandrovskiy.DemoFiddle.tests.FiddlesTest@14b1c02]" name="logInTest" duration-ms="2601" started-at="2017-09-07T20:05:29Z" finished-at="2017-09-07T20:05:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logInTest -->
+        <test-method status="PASS" signature="savedFiddleTest()[pri:2, instance:com.alexandrovskiy.DemoFiddle.tests.FiddlesTest@14b1c02]" name="savedFiddleTest" duration-ms="2323" started-at="2017-09-07T20:05:31Z" finished-at="2017-09-07T20:05:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- savedFiddleTest -->
+        <test-method status="PASS" signature="createForkTest()[pri:3, instance:com.alexandrovskiy.DemoFiddle.tests.FiddlesTest@14b1c02]" name="createForkTest" duration-ms="1854" started-at="2017-09-07T20:05:34Z" finished-at="2017-09-07T20:05:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createForkTest -->
+        <test-method status="PASS" signature="deleteForkTest()[pri:4, instance:com.alexandrovskiy.DemoFiddle.tests.FiddlesTest@14b1c02]" name="deleteForkTest" duration-ms="1181" started-at="2017-09-07T20:05:36Z" finished-at="2017-09-07T20:05:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteForkTest -->
+        <test-method status="PASS" signature="logOutTest()[pri:5, instance:com.alexandrovskiy.DemoFiddle.tests.FiddlesTest@14b1c02]" name="logOutTest" duration-ms="2264" started-at="2017-09-07T20:05:37Z" finished-at="2017-09-07T20:05:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOutTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.alexandrovskiy.DemoFiddle.tests.FiddlesTest@14b1c02]" name="tearDown" is-config="true" duration-ms="2075" started-at="2017-09-07T20:05:39Z" finished-at="2017-09-07T20:05:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.alexandrovskiy.DemoFiddle.tests.FiddlesTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
